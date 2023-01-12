@@ -1,0 +1,9 @@
+#Aliase
+alias ..="cd ../"
+alias l="ls -lah"
+alias scb="source ~/.bashrc"
+alias sc="source"
+alias v="nvim"
+alias nf="neofetch"
+alias ra="ranger"
+alias dtfl="git --git-dir=$HOME/dtfile --work-tree=$HOME/"
